@@ -1,4 +1,3 @@
-
 -- Customer Churn Prediction System — SQL EDA Queries
 -- Dataset: Bank Customer Churn (Kaggle)
 
