@@ -71,3 +71,5 @@ SELECT Exited,
        AVG(Balance) AS avg_balance
 FROM customers
 GROUP BY Exited;
+
+
