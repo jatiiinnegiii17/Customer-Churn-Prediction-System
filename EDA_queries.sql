@@ -2,6 +2,7 @@
 -- Dataset: Bank Customer Churn (Kaggle)
 
 
+
 -- Setup
 CREATE DATABASE Bank_churn;
 USE Bank_churn;
