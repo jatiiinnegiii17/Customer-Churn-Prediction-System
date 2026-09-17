@@ -1,6 +1,7 @@
 -- Customer Churn Prediction System — SQL EDA Queries
 -- Dataset: Bank Customer Churn (Kaggle)
 
+
 -- Setup
 CREATE DATABASE Bank_churn;
 USE Bank_churn;
